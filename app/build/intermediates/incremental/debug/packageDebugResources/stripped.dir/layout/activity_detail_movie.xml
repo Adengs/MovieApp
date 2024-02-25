@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context=".page.home.DetailMovieActivity">
+
+    <LinearLayout
+        android:id="@+id/lay_header"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="@color/black"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:padding="16dp"
+            android:src="@drawable/ic_back"
+            app:tint="@color/white" />
+
+        <!--        <EditText-->
+        <!--            android:id="@+id/et_search"-->
+        <!--            android:layout_width="0dp"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_weight="1"-->
+        <!--            android:background="@null"-->
+        <!--            android:drawableRight="@drawable/ic_search"-->
+        <!--            android:hint="@string/search"-->
+        <!--            android:imeOptions="actionSearch"-->
+        <!--            android:inputType="textPersonName"-->
+        <!--            android:padding="16dp"-->
+        <!--            android:textColorHint="@color/black" />-->
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:paddingStart="@dimen/_12sdp"
+            android:text="@string/detail_movie"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_15sdp" />
+
+        <!--                <ImageView-->
+        <!--                    android:id="@+id/btn_search"-->
+        <!--                    android:layout_width="@dimen/_50sdp"-->
+        <!--                    android:layout_height="match_parent"-->
+        <!--                    android:src="@drawable/ic_search"-->
+        <!--                    android:scaleX="0.25"-->
+        <!--                    android:scaleY="0.25"/>-->
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/lay_header">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/lay_poster"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/poster"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:layout_height="@dimen/_250sdp"
+                    android:adjustViewBounds="true"
+                    tools:background="@color/white"
+                    android:visibility="visible"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/title_movie"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_14sdp"
+                android:textStyle="bold"
+                tools:text="@string/app_name"
+                android:layout_below="@+id/lay_poster"/>
+
+            <LinearLayout
+                android:id="@+id/lay_years"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_2sdp"
+                android:orientation="horizontal"
+                android:layout_below="@+id/title_movie">
+
+                <TextView
+                    android:id="@+id/genre"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/app_name"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_11sdp"
+                    android:visibility="gone"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/_3sdp"
+                    android:text="@string/space"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_15sdp"
+                    android:visibility="gone"/>
+
+                <TextView
+                    android:id="@+id/years"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/app_name"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_11sdp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/_3sdp"
+                    android:text="@string/space"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_15sdp"
+                    android:visibility="gone"/>
+
+                <TextView
+                    android:id="@+id/duration"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/app_name"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_11sdp"
+                    android:visibility="gone"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/desc_movie"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginBottom="@dimen/_20sdp"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_11sdp"
+                tools:text="@string/lorem_ipsum"
+                android:layout_below="@+id/lay_years"/>
+
+            <LinearLayout
+                android:id="@+id/lay_cast"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:orientation="horizontal"
+                android:layout_below="@id/desc_movie"
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/actor"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/_11sdp" />
+
+                <TextView
+                    android:id="@+id/actor"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:text="@string/app_name"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/_11sdp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lay_director"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_2sdp"
+                android:orientation="horizontal"
+                android:layout_below="@id/lay_cast"
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/director"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/_11sdp" />
+
+                <TextView
+                    android:id="@+id/director"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:text="@string/app_name"
+                    android:textColor="@color/grey"
+                    android:textSize="@dimen/_11sdp" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+    <ProgressBar
+        android:id="@+id/progressbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminateTint="@color/colorSpace"/>
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Adengs</string>
+    <string name="search">Search Movie</string>
+    <string name="category">Category</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="space">-</string>
+    <string name="actor">Case : </string>
+    <string name="director">Director : </string>
+    <string name="error">Result could not be loaded</string>
+    <string name="failed">Load data failed</string>
+    <string name="not_foud">Movie not found</string>
+    <string name="retry">Retry</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+</resources>

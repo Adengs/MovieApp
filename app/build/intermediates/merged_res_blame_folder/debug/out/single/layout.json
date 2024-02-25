@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.ads.app-mergeDebugResources-49:/layout/movie_load_state_footer.xml",
+        "source": "com.example.ads.app-main-52:/layout/movie_load_state_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricky_codelabs\\AppData\\Local\\Android\\Sdk\\daemon\\8.2\\com.example.ads.app-mergeDebugResources-49:\\layout\\item_category.xml",
+        "source": "C:\\Users\\ricky_codelabs\\AppData\\Local\\Android\\Sdk\\daemon\\8.2\\com.example.ads.app-main-52:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "com.example.ads.app-mergeDebugResources-49:/layout/activity_detail_movie.xml",
+        "source": "com.example.ads.app-main-52:/layout/activity_detail_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricky_codelabs\\AppData\\Local\\Android\\Sdk\\daemon\\8.2\\com.example.ads.app-mergeDebugResources-49:\\layout\\activity_detail_movie.xml",
+        "source": "C:\\Users\\ricky_codelabs\\AppData\\Local\\Android\\Sdk\\daemon\\8.2\\com.example.ads.app-main-52:\\layout\\activity_detail_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricky_codelabs\\AppData\\Local\\Android\\Sdk\\daemon\\8.2\\com.example.ads.app-mergeDebugResources-49:\\layout\\item_movie.xml",
+        "source": "C:\\Users\\ricky_codelabs\\AppData\\Local\\Android\\Sdk\\daemon\\8.2\\com.example.ads.app-main-52:\\layout\\item_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\ricky_codelabs\\AppData\\Local\\Android\\Sdk\\daemon\\8.2\\com.example.ads.app-mergeDebugResources-49:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ricky_codelabs\\AppData\\Local\\Android\\Sdk\\daemon\\8.2\\com.example.ads.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.ads.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.example.ads.app-main-52:/layout/activity_main.xml"
+    }
+]

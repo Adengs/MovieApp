@@ -1,0 +1,592 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [androidx.databinding:databinding-adapters:8.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fe0159dbda9ab6405d3de52f6745f729\transformed\databinding-adapters-8.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:8.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5f564331c5a51bd4324c7c52c31af5c6\transformed\databinding-ktx-8.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\d50ff388c7c944b84375347fdaf87711\transformed\databinding-runtime-8.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\7365d351efae0465ab9303abcb137757\transformed\viewbinding-8.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\2cf61852f70936dce59bb32646fc61f4\transformed\core-12.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\92d3eee68c99b40710ecc04d5dffd43c\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3440b20d61e2d4f9a2439be551a921ec\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\169b08a89ab9951b4d9320b40c5d4d1b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3a80bc02df85196ed1468df0a2fb5bde\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\8c6e0e4ad7ced0cdb733d2868e6d12e4\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:hilt-android:2.48] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c488fb4d65b4edcece08222085e5f454\transformed\hilt-android-2.48\AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\7d7e7c630599faead98c71b3e9f77e66\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\9c7075df0a880f01da11f269093a6d46\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ec018b2f75ed8d88270484d91f7553a4\transformed\play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\4a6139f79caaaf9f56d7ac03d21b0453\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5a5563510a4ad9b96775728ff95063f1\transformed\recaptcha-18.1.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3e286f87c6fc19852f064b0545f5ef71\transformed\integrity-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ab2d8eb3eb7d757506fdce1bf7041bb6\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\cc34edbb4610b839f7704d4da72356b5\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0d0fa93fca9268701392775309790456\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.paging:paging-runtime-ktx:3.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\92d6a7dc309be7c7888d0057a7ca6d02\transformed\paging-runtime-ktx-3.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.paging:paging-runtime:3.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\aa315c7800c67124bfaec252bc3d561e\transformed\paging-runtime-3.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0c62b7570122145e2f49f91babb4d4c1\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\602d0eb48681ff136552676641a65a0b\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ca32f88c87c054b4dcbad23dcc5d6728\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\9e2a76216b4797aae6383db6dd675ae0\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b087e6eb55ba0a952936c39b1f14aff6\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5becc41766759be3d83fef52168bbb2a\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\9d43258cf4b73a52455eaba912e80c01\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\582d99dce727d64bd2c0e0439903172e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\6fb9a7f2acc953c23b2c0bfe33ae171e\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\bad85f0c394cfa26b372c32387deabc2\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\2b13b3e40a0fb03ee7dde81e863b2cce\transformed\lifecycle-service-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b3413ef7599e37650c7025825fec5029\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\4528c7346f2240165f2e882b2c80297b\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e1948191539d0c1a0462bf797ce4a08c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\4a717aaee4a38af1e6159d34566d4267\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5f52ddc2011dac3bb19b7529c3044f8c\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\8bab836bd2d6135957611e3eae115fc4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\723f83cd0fb7250b2acefb2ca53cffad\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\a2fd040cb8174a59ede480cb11f8fc1e\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\a994ba9a9b80a65604d37cfd905a4e07\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c5a483098a9dbe6f40053dc1df8beb25\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b4d5ab37f3ec55b7dcfb2a16ab616040\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\857032826c2a08b7104f4b00939a9739\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e66e638af087a2bad0c3e22608a4dcf9\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b461547644dbf7177b3d982a34449d74\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\bc1ba875f68a3dea280205c9bdb277c5\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\cf43693c42d17b8633d98975e9986bd8\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\697114251a2911b457b33e6089bc07ab\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e922016258bb104e2cd246fc2a44316d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c6550ca5ae4849147c9368426d6cf2cc\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\bb7e0c29262afd63e9937db13506fc82\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\71b4df1f78c8ddc9494afd6a2ca1ad6d\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\a72c1e72b3987fd5e626bded181df03d\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.intuit.sdp:sdp-android:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\27afa58e2e217061b951d893e3451698\transformed\sdp-android-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ee98c4a35eb5273269f963e1a8064201\transformed\picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b1e9294612aa20d530b5ffb01e118ff4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fc9e536b90f1124a7fb78b0a817d050e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ccab0ebc1561bff09c1db4019a9b61aa\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\101aebd7d4c12699ba76b4acd8d766f7\transformed\firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b02ae44bdd4d1bbf94c14514cd606aaa\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3abc00a42bb94fbbd1a51710da6af50c\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\f61c039027263a0d0d2a96968917563a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3b916111e35b66409f30f163cb396c48\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\12b97c3050c9ead8f812e94184fd6eba\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\94ab3f1e1cd89aa2d47ee2dfeb5a34a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\286b0c50fa8636c98da1d1ffe6890c2c\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0a5c4e12cc2356798ac3bd8d6bd94caa\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\543190bf2d3d3ba082abfd9b7d254abf\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\a24abd6077347d4fe2385760388ceed9\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\67e7d751130596a2dbcd26af3a886b54\transformed\exifinterface-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b6e611e3844bd9e1abd7ada5a8bf82ad\transformed\dagger-lint-aar-2.48\AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\2cf61852f70936dce59bb32646fc61f4\transformed\core-12.1.0\AndroidManifest.xml:7:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\2cf61852f70936dce59bb32646fc61f4\transformed\core-12.1.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5a5563510a4ad9b96775728ff95063f1\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5a5563510a4ad9b96775728ff95063f1\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\2cf61852f70936dce59bb32646fc61f4\transformed\core-12.1.0\AndroidManifest.xml:8:5-79
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\2cf61852f70936dce59bb32646fc61f4\transformed\core-12.1.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5a5563510a4ad9b96775728ff95063f1\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5a5563510a4ad9b96775728ff95063f1\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:10:5-41:19
+INJECTED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:10:5-41:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\92d3eee68c99b40710ecc04d5dffd43c\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\92d3eee68c99b40710ecc04d5dffd43c\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3440b20d61e2d4f9a2439be551a921ec\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3440b20d61e2d4f9a2439be551a921ec\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\169b08a89ab9951b4d9320b40c5d4d1b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\169b08a89ab9951b4d9320b40c5d4d1b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ec018b2f75ed8d88270484d91f7553a4\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ec018b2f75ed8d88270484d91f7553a4\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3e286f87c6fc19852f064b0545f5ef71\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3e286f87c6fc19852f064b0545f5ef71\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ab2d8eb3eb7d757506fdce1bf7041bb6\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ab2d8eb3eb7d757506fdce1bf7041bb6\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\cc34edbb4610b839f7704d4da72356b5\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\cc34edbb4610b839f7704d4da72356b5\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0d0fa93fca9268701392775309790456\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0d0fa93fca9268701392775309790456\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\602d0eb48681ff136552676641a65a0b\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\602d0eb48681ff136552676641a65a0b\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e66e638af087a2bad0c3e22608a4dcf9\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e66e638af087a2bad0c3e22608a4dcf9\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\697114251a2911b457b33e6089bc07ab\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\697114251a2911b457b33e6089bc07ab\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e922016258bb104e2cd246fc2a44316d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e922016258bb104e2cd246fc2a44316d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ee98c4a35eb5273269f963e1a8064201\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ee98c4a35eb5273269f963e1a8064201\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\f61c039027263a0d0d2a96968917563a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\f61c039027263a0d0d2a96968917563a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\94ab3f1e1cd89aa2d47ee2dfeb5a34a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\94ab3f1e1cd89aa2d47ee2dfeb5a34a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:16:9-41
+	android:fullBackupContent
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:14:9-54
+	android:roundIcon
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:17:9-54
+	tools:targetApi
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:20:9-29
+	android:icon
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:19:9-41
+	android:dataExtractionRules
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:13:9-65
+	android:name
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:11:9-45
+activity#com.example.ads.page.home.DetailMovieActivity
+ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:21:9-27:55
+	android:screenOrientation
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:24:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:26:13-52
+	android:exported
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:23:13-37
+	tools:ignore
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:27:13-53
+	android:theme
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:25:13-50
+	android:name
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:22:13-58
+activity#com.example.ads.page.home.MainActivity
+ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:28:9-40:20
+	android:screenOrientation
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:31:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:33:13-52
+	android:exported
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:30:13-36
+	tools:ignore
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:34:13-53
+	android:theme
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:32:13-50
+	android:name
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:29:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fe0159dbda9ab6405d3de52f6745f729\transformed\databinding-adapters-8.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fe0159dbda9ab6405d3de52f6745f729\transformed\databinding-adapters-8.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5f564331c5a51bd4324c7c52c31af5c6\transformed\databinding-ktx-8.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5f564331c5a51bd4324c7c52c31af5c6\transformed\databinding-ktx-8.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\d50ff388c7c944b84375347fdaf87711\transformed\databinding-runtime-8.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\d50ff388c7c944b84375347fdaf87711\transformed\databinding-runtime-8.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\7365d351efae0465ab9303abcb137757\transformed\viewbinding-8.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\7365d351efae0465ab9303abcb137757\transformed\viewbinding-8.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\2cf61852f70936dce59bb32646fc61f4\transformed\core-12.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\2cf61852f70936dce59bb32646fc61f4\transformed\core-12.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\92d3eee68c99b40710ecc04d5dffd43c\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\92d3eee68c99b40710ecc04d5dffd43c\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3440b20d61e2d4f9a2439be551a921ec\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3440b20d61e2d4f9a2439be551a921ec\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\169b08a89ab9951b4d9320b40c5d4d1b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\169b08a89ab9951b4d9320b40c5d4d1b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3a80bc02df85196ed1468df0a2fb5bde\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3a80bc02df85196ed1468df0a2fb5bde\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\8c6e0e4ad7ced0cdb733d2868e6d12e4\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\8c6e0e4ad7ced0cdb733d2868e6d12e4\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:hilt-android:2.48] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c488fb4d65b4edcece08222085e5f454\transformed\hilt-android-2.48\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.48] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c488fb4d65b4edcece08222085e5f454\transformed\hilt-android-2.48\AndroidManifest.xml:18:3-42
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\7d7e7c630599faead98c71b3e9f77e66\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\7d7e7c630599faead98c71b3e9f77e66\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\9c7075df0a880f01da11f269093a6d46\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\9c7075df0a880f01da11f269093a6d46\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ec018b2f75ed8d88270484d91f7553a4\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ec018b2f75ed8d88270484d91f7553a4\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\4a6139f79caaaf9f56d7ac03d21b0453\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\4a6139f79caaaf9f56d7ac03d21b0453\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5a5563510a4ad9b96775728ff95063f1\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5a5563510a4ad9b96775728ff95063f1\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3e286f87c6fc19852f064b0545f5ef71\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3e286f87c6fc19852f064b0545f5ef71\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ab2d8eb3eb7d757506fdce1bf7041bb6\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ab2d8eb3eb7d757506fdce1bf7041bb6\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\cc34edbb4610b839f7704d4da72356b5\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\cc34edbb4610b839f7704d4da72356b5\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0d0fa93fca9268701392775309790456\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0d0fa93fca9268701392775309790456\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.paging:paging-runtime-ktx:3.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\92d6a7dc309be7c7888d0057a7ca6d02\transformed\paging-runtime-ktx-3.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:3.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\92d6a7dc309be7c7888d0057a7ca6d02\transformed\paging-runtime-ktx-3.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-runtime:3.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\aa315c7800c67124bfaec252bc3d561e\transformed\paging-runtime-3.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-runtime:3.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\aa315c7800c67124bfaec252bc3d561e\transformed\paging-runtime-3.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0c62b7570122145e2f49f91babb4d4c1\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0c62b7570122145e2f49f91babb4d4c1\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\602d0eb48681ff136552676641a65a0b\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\602d0eb48681ff136552676641a65a0b\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ca32f88c87c054b4dcbad23dcc5d6728\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ca32f88c87c054b4dcbad23dcc5d6728\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\9e2a76216b4797aae6383db6dd675ae0\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\9e2a76216b4797aae6383db6dd675ae0\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b087e6eb55ba0a952936c39b1f14aff6\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b087e6eb55ba0a952936c39b1f14aff6\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5becc41766759be3d83fef52168bbb2a\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5becc41766759be3d83fef52168bbb2a\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\9d43258cf4b73a52455eaba912e80c01\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\9d43258cf4b73a52455eaba912e80c01\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\582d99dce727d64bd2c0e0439903172e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\582d99dce727d64bd2c0e0439903172e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\6fb9a7f2acc953c23b2c0bfe33ae171e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\6fb9a7f2acc953c23b2c0bfe33ae171e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\bad85f0c394cfa26b372c32387deabc2\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\bad85f0c394cfa26b372c32387deabc2\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\2b13b3e40a0fb03ee7dde81e863b2cce\transformed\lifecycle-service-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\2b13b3e40a0fb03ee7dde81e863b2cce\transformed\lifecycle-service-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b3413ef7599e37650c7025825fec5029\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b3413ef7599e37650c7025825fec5029\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\4528c7346f2240165f2e882b2c80297b\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\4528c7346f2240165f2e882b2c80297b\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e1948191539d0c1a0462bf797ce4a08c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e1948191539d0c1a0462bf797ce4a08c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\4a717aaee4a38af1e6159d34566d4267\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\4a717aaee4a38af1e6159d34566d4267\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5f52ddc2011dac3bb19b7529c3044f8c\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\5f52ddc2011dac3bb19b7529c3044f8c\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\8bab836bd2d6135957611e3eae115fc4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\8bab836bd2d6135957611e3eae115fc4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\723f83cd0fb7250b2acefb2ca53cffad\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\723f83cd0fb7250b2acefb2ca53cffad\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\a2fd040cb8174a59ede480cb11f8fc1e\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\a2fd040cb8174a59ede480cb11f8fc1e\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\a994ba9a9b80a65604d37cfd905a4e07\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\a994ba9a9b80a65604d37cfd905a4e07\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c5a483098a9dbe6f40053dc1df8beb25\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c5a483098a9dbe6f40053dc1df8beb25\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b4d5ab37f3ec55b7dcfb2a16ab616040\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b4d5ab37f3ec55b7dcfb2a16ab616040\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\857032826c2a08b7104f4b00939a9739\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\857032826c2a08b7104f4b00939a9739\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e66e638af087a2bad0c3e22608a4dcf9\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e66e638af087a2bad0c3e22608a4dcf9\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b461547644dbf7177b3d982a34449d74\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b461547644dbf7177b3d982a34449d74\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\bc1ba875f68a3dea280205c9bdb277c5\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\bc1ba875f68a3dea280205c9bdb277c5\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\cf43693c42d17b8633d98975e9986bd8\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\cf43693c42d17b8633d98975e9986bd8\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\697114251a2911b457b33e6089bc07ab\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\697114251a2911b457b33e6089bc07ab\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e922016258bb104e2cd246fc2a44316d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e922016258bb104e2cd246fc2a44316d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c6550ca5ae4849147c9368426d6cf2cc\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c6550ca5ae4849147c9368426d6cf2cc\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\bb7e0c29262afd63e9937db13506fc82\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\bb7e0c29262afd63e9937db13506fc82\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\71b4df1f78c8ddc9494afd6a2ca1ad6d\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\71b4df1f78c8ddc9494afd6a2ca1ad6d\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\a72c1e72b3987fd5e626bded181df03d\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\a72c1e72b3987fd5e626bded181df03d\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\27afa58e2e217061b951d893e3451698\transformed\sdp-android-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\27afa58e2e217061b951d893e3451698\transformed\sdp-android-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ee98c4a35eb5273269f963e1a8064201\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ee98c4a35eb5273269f963e1a8064201\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b1e9294612aa20d530b5ffb01e118ff4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b1e9294612aa20d530b5ffb01e118ff4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fc9e536b90f1124a7fb78b0a817d050e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fc9e536b90f1124a7fb78b0a817d050e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ccab0ebc1561bff09c1db4019a9b61aa\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ccab0ebc1561bff09c1db4019a9b61aa\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\101aebd7d4c12699ba76b4acd8d766f7\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\101aebd7d4c12699ba76b4acd8d766f7\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b02ae44bdd4d1bbf94c14514cd606aaa\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b02ae44bdd4d1bbf94c14514cd606aaa\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3abc00a42bb94fbbd1a51710da6af50c\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3abc00a42bb94fbbd1a51710da6af50c\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\f61c039027263a0d0d2a96968917563a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\f61c039027263a0d0d2a96968917563a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3b916111e35b66409f30f163cb396c48\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3b916111e35b66409f30f163cb396c48\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\12b97c3050c9ead8f812e94184fd6eba\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\12b97c3050c9ead8f812e94184fd6eba\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\94ab3f1e1cd89aa2d47ee2dfeb5a34a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\94ab3f1e1cd89aa2d47ee2dfeb5a34a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\286b0c50fa8636c98da1d1ffe6890c2c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\286b0c50fa8636c98da1d1ffe6890c2c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0a5c4e12cc2356798ac3bd8d6bd94caa\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0a5c4e12cc2356798ac3bd8d6bd94caa\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\543190bf2d3d3ba082abfd9b7d254abf\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\543190bf2d3d3ba082abfd9b7d254abf\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\a24abd6077347d4fe2385760388ceed9\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\a24abd6077347d4fe2385760388ceed9\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\67e7d751130596a2dbcd26af3a886b54\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\67e7d751130596a2dbcd26af3a886b54\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b6e611e3844bd9e1abd7ada5a8bf82ad\transformed\dagger-lint-aar-2.48\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\b6e611e3844bd9e1abd7ada5a8bf82ad\transformed\dagger-lint-aar-2.48\AndroidManifest.xml:18:3-42
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Adeng\MovieApp\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3440b20d61e2d4f9a2439be551a921ec\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3440b20d61e2d4f9a2439be551a921ec\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\005fd369be344748869c7ccb09a62f19\transformed\firebase-auth-22.3.0\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3440b20d61e2d4f9a2439be551a921ec\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3440b20d61e2d4f9a2439be551a921ec\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\3440b20d61e2d4f9a2439be551a921ec\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\fabe98a6dc70f9305e491d97f766f2cc\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0d0fa93fca9268701392775309790456\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0d0fa93fca9268701392775309790456\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0d0fa93fca9268701392775309790456\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\0d0fa93fca9268701392775309790456\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\602d0eb48681ff136552676641a65a0b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e66e638af087a2bad0c3e22608a4dcf9\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e66e638af087a2bad0c3e22608a4dcf9\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\f61c039027263a0d0d2a96968917563a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\f61c039027263a0d0d2a96968917563a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\602d0eb48681ff136552676641a65a0b\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\602d0eb48681ff136552676641a65a0b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\602d0eb48681ff136552676641a65a0b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\602d0eb48681ff136552676641a65a0b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\602d0eb48681ff136552676641a65a0b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\602d0eb48681ff136552676641a65a0b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\602d0eb48681ff136552676641a65a0b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.ads.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.ads.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\c15c78c5a977fc4d9d7f077146791727\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e66e638af087a2bad0c3e22608a4dcf9\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e66e638af087a2bad0c3e22608a4dcf9\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e66e638af087a2bad0c3e22608a4dcf9\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e922016258bb104e2cd246fc2a44316d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e922016258bb104e2cd246fc2a44316d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\e922016258bb104e2cd246fc2a44316d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ee98c4a35eb5273269f963e1a8064201\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ee98c4a35eb5273269f963e1a8064201\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ee98c4a35eb5273269f963e1a8064201\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\ee98c4a35eb5273269f963e1a8064201\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ricky_codelabs\AppData\Local\Android\Sdk\caches\transforms-3\99520f7d6f5fc6df484a413c0752301f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
